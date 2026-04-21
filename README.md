@@ -1,3 +1,3 @@
-# Python-Basic
+# Pinterest Web Project
 
-In this repo, you will get lots of Python Code.
+This is an Image Web Clone Project.
